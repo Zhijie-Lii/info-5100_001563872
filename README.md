@@ -1,52 +1,63 @@
 # info-5100
-Assignment-1
+Hi, Zhijie is novice to Java. This is the first time to submit homework on GitHub。
 
-1.Design a course management system (Like Canvas)
-
-Object
-
--Faculty
-  Data:
-  Behavior:loginToCanvas, uploadSchedule, uploadAssignment
- 
--Student
-
-  Behavior: loginToCanvas, checkSchedule, doAssignment, 
-  
--Canvas
-
-  Behavior: stayConnectedToInternet, update, sendMessage()
+To start, you need to remeber these following instructions.
 
 
-Faculty siva;
-Student zhijie;
-Canvas sivaCanvas, zhijieCanvas;
 
-  siva.loginTosivaCanvas()
-  siva.uploadSchedule()
-  siva.uploadAssignment()
-  zhijieCanvas=sivaCanvas.update()
-  zhijieCanvas.sendMessage(zhijie)
-  zhijie.loginTozhijieCanvas()
-  zhijie.checkSchedule()
-  zhijie.doAssignment()
-  
+-To remove a file on GitHub
 
-3.Design an app to book airline ticket
-Object
--Passenger zhijie
-  Data: StartAirport, ArrivalAirport, day, CreditCard, price, gender, ID number, ;
-  
-  
--App flypig
-  Data:
+git pull origin master // 将远程文件夹内容拉到本机
 
--Airline a, b
-  Data:
-  
+git rm -r --cached <file.name>
 
-  zhijie.loginToflypig()
-  trip =zhijie.search(StartAirport,ArrivalAirport,day,price);
-  
-  
-  
+git commit -m '删除某文件' //保存到库，记录说明
+
+git push -u origin master  //将更新推到远程，完成
+
+
+
+Basic instructions:
+
+cd	
+
+git	
+
+cd~ // command all
+
+cd Desktop
+
+ls // To list out
+
+cd info-5100 // 
+
+git init //
+
+git remote add origin https://github.com/beatific-Liiiiii/info-5100_001563872.git
+
+git clone https://github.com/beatific-Liiiiii/info-5100_001563872.git
+
+
+
+git add . // Add All!
+
+git commit -m 'Message' //更新并说明
+
+
+
+**Class Zoom Link**:
+
+https://northeastern.zoom.us/j/94767466091?pwd=cVZ3TkJmaXh4RWE1dUpYazliVmxWQT09
+
+- Timing for our classes
+  - Every Tuesday (3:30PM to 5:00PM PST)
+  - Every Thursday (3:30PM to 5:00PM PST)
+
+**Information Spreadsheet**:
+
+https://docs.google.com/spreadsheets/d/112gaM9l8e1fgHtnBZzQ6mTu2zAdBKJ8kYFWktRSKa7o/edit#gid=1085512228
+
+**Class Notes**
+
+https://docs.google.com/document/d/1M5uFgJ-ctr4A3xgwzNGzTNMhq9PZcLntKPAZ_1iJoes/edit
+
