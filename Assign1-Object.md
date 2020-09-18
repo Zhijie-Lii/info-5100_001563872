@@ -120,9 +120,9 @@ zhijie.submitTheForm(zhijie.name, zhijie.age, phone, address, adoptionRecord);
 
  
 
--**Platform ** skyscanner
+-**Platform**  skyscanner
 
- 	Data:  Flight, FlightReservation, Bill,
+​	Data: Flight, FlightReservation, Bill,
 
 ​	Behavior:  checkRemainingSeat(AirlineCompany),  makeFlightReservation (AirlineCompany), sendTheBill(),  requestAirTicket(AirlineCompany),  cancelFlightReservation(AirlineCompany),
 
