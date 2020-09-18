@@ -120,7 +120,7 @@ zhijie.submitTheForm(zhijie.name, zhijie.age, phone, address, adoptionRecord);
 
  
 
--**Platform **skyscanner
+-**Platform ** skyscanner
 
  	Data:  Flight, FlightReservation, Bill,
 
