@@ -1,9 +1,9 @@
 # info-5100
-Hi, Zhijie is novice to Java. This is the first time to submit homework on GitHub。
+Hi, this is Zhijie.
 
-To start, you need to remeber these following instructions.
+##### Checklist
 
-
+https://docs.google.com/document/d/1n-Knd4Qzs8BzRJMUIYn4HpFFZ0HxqJpQ2jPZsc_R3Us/edit
 
 **Class Zoom Link**:
 
