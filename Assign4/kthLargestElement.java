@@ -4,7 +4,7 @@ public class KthLargestElement {
         boolean isSorted = false;
 
         while (!isSorted){
-            //isSorted = true;
+            isSorted = true;  // without this statement, the macbook blown out?
             for (int i = 0;i< arr.length-1; i++){
                 if (arr[i]>arr[i+1]){
                     swap(arr,i,i+1);
@@ -27,9 +27,9 @@ class test {
     public static void main(String[] args) {
         int [] a = {3,2,4,6,8,3,1,7,2};
         int k= 3;
-        //int answer=kthLargestElement(a,k);
         KthLargestElement exm = new KthLargestElement();
-        System.out.println(exm.kthLargestElement(a,k));
+        int answer= exm.kthLargestElement(a,k);
+        System.out.println(exm.kthLargestElement(a,3));
     }
 }
 
