@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Course {
     private String name;
     int numberOfStudent;
-    Student[] students= new Student[0];
+    Student[] students= new Student[10];
 
     public Course(String name, int numberOfStudent){
         this.name= name;
@@ -45,6 +45,7 @@ public class Course {
     }
 
     public void setNumberOfStudent(int numberOfStudent) {
+        
         this.numberOfStudent = numberOfStudent;
     }
 
@@ -67,7 +68,10 @@ class Test{
     public static void main(String[] args) {
         Course java = new Course("INFO-5100",0);
         Student zhijie = new Student();
-        Student mingjai = new Student();
+        Student mingjai = new Student(001);
+        Student martin = new Student(martin,002);
+        new Student(chybee,003);
+        java.registerStudent(chybee)
 
         zhijie.setId(1563872);
         zhijie.setName("Zollic");
