@@ -9,6 +9,15 @@ https://docs.google.com/document/d/1n-Knd4Qzs8BzRJMUIYn4HpFFZ0HxqJpQ2jPZsc_R3Us/
 
 https://northeastern.zoom.us/j/94767466091?pwd=cVZ3TkJmaXh4RWE1dUpYazliVmxWQT09
 
+
+
+（Post-Midterm)
+
+Meeting ID: 910 4213 7669
+ Passcode: 183413
+
+https://northeastern.zoom.us/j/91042137669?pwd=UGhacmpCY3NsZnIrODgwNDJIVXdIZz09
+
 - Timing for our classes
   - Every Tuesday (3:30PM to 5:00PM PST)
   - Every Thursday (3:30PM to 5:00PM PST)
